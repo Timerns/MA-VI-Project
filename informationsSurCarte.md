@@ -22,18 +22,32 @@
 
 - Taux de retard par gare
 
-
 ## Widgets 2
 
-- Taux de retard par ligne (peut être)
-
+- Taux de retard par ligne
 
 ## Widgets 3
 
 - Infos divers :
   - Plus gros retard non annulé
 
-
 ## Autres à faire
 
 - Garder les axes principaux
+
+---------------------------------
+# Sur le dataset
+
+## Par gare on veut
+
+- Nom
+- Retard max
+- Nombre de train total
+- Nombre de train en retard
+
+## Par ligne on veut
+
+- Nom
+- Retard max
+- Nombre de train total
+- Nombre de train en retard
