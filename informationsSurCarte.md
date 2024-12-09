@@ -1,5 +1,4 @@
-# Information à afficher
-
+# Informations à afficher sur la carte
 
 ## Afficher sur la carte
 
