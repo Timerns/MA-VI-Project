@@ -11,8 +11,9 @@ Membres: Antoine Ottiger, Laetitia Gudetti, Tim Ernst
 - Lien du projet: https://github.com/Timerns/MA-VI-Project
 - Lien vers la carte: https://pinea.app.carto.com/map/683376fe-05d5-46f9-b1ac-b4b9d39c7f74
 
-## Informations sur les dossiers
+## Informations sur les dossiers/fichiers
 
 - **data**: Contient les données utilisées pour le projet
 - **notebooks**: Contient les notebooks utilisés pour le projet
 - **old_experiments**: Contient les expérimentations qui ont été réalisées afin de trouver la meilleure manière de visualiser les données. Ils ne sont par conséquent pas utilisés dans le projet final. Leur exécution sans modification des chemins d'accès aux fichiers peut ne pas fonctionner.
+- **informationsSurCarte.md**: Contient les informations à afficher sur la carte
